@@ -4,7 +4,7 @@
 
 ## 从 GitHub 安装
 
-1. 打开仓库的 Releases 页面，下载最新的 `obsidian-screen-recorder-版本号.zip`。
+1. 打开 [Releases](https://github.com/beyondaprilzjl-lab/obsidian-screen-recorder/releases/latest)，下载最新的 `obsidian-screen-recorder-版本号.zip`。
 2. 解压到 Vault 的 `.obsidian/plugins/obsidian-screen-recorder/` 目录。
 3. 确认目录中包含 `main.js`、`manifest.json`、`styles.css` 和 `native/`。
 4. 重启 Obsidian，在“第三方插件”中启用 `Recorder Studio`。
