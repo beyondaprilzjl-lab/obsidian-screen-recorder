@@ -1,0 +1,9 @@
+{
+  "id": "screen-recorder",
+  "name": "Recorder Studio",
+  "version": "1.3.0",
+  "minAppVersion": "1.4.0",
+  "description": "在 Obsidian 中录制屏幕、麦克风与可拖动的摄像头画中画",
+  "author": "zhoujinglin",
+  "isDesktopOnly": true
+}
